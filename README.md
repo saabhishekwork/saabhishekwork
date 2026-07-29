@@ -23,7 +23,7 @@
 - 🌱 Deep diving into **Deep Learning, NLP, Computer Vision & Generative AI**
 - 📊 Skilled in turning raw data into actionable business insights using Python, SQL & Power BI
 - 💡 Passionate about building end-to-end ML pipelines — from EDA to deployment
-- 📫 Reach me at **saabhishek@gmail.com**
+- 📫 Reach me at **saabhishekwork@gmail.com**
 
 <br/>
 
@@ -112,30 +112,11 @@ Retrospective study comparing real-world air quality data against **WHO and NAAQ
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=2C5364&icon_color=2C5364&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=2C5364&fire=2C5364&currStreakLabel=2C5364" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=2C5364&text_color=c9d1d9" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react&hide_border=true" width="0" height="0"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=2C5364&line=2C5364&point=ffffff" width="100%"/>
-
-</div>
-
-> ⚠️ Note: `YOUR_GITHUB_USERNAME` ला apla actual GitHub username टाकायचा आहे (sagla ठिकani, 4 jagi aahe).
-
-<br/>
-
 ## 🤝 Connect With Me
 
 <div align="center">
 
-<a href="mailto:saabhishek@gmail.com">
+<a href="mailto:saabhishekwork@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/">
