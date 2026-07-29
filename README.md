@@ -1,72 +1,158 @@
 <div align="center">
-  <!-- Dynamic Typing Animation -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Abhishek+Sahastrabudhe;Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Web+Scraping+Expert" alt="Typing SVG" />
-  </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Abhishek%20Sahastrabudhe&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Data%20Scientist%20|%20ML%20%2B%20DL%20%2B%20GenAI&descAlignY=55&descSize=18" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=650&lines=Aspiring+Data+Scientist+%F0%9F%93%8A;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Turning+Data+into+Decisions+%F0%9F%92%A1;Nagpur%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Location-Nagpur%2C%20India-2C5364?style=for-the-badge&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-Data%20Science-0F2027?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-203A43?style=for-the-badge&logo=handshake&logoColor=white" />
+
 </div>
 
-<!-- SIDE PROFILE PHOTO (Replace the src link with your actual photo URL) -->
-### 👨‍💻 About Me
-*Hello! I'm a Data Analyst and Aspiring Data Scientist based in Nagpur, India. I specialize in turning raw, messy data into actionable, logical architectures.* 
+<br/>
 
-- 🔭 I’m currently building scalable Data Science and ML solutions.
-- 🏢 Previously worked as a **Data Science Intern** at Hisan Lab Pvt. Ltd., where I built forecasting models that improved accuracy by 15% and automated weekly reporting.
-- 🕷️ **What I Do:** Data Analysis, Machine Learning (Regression, Classification, Deep Learning), **Web Scraping** (Extracting unstructured data from the web), and Interactive Power BI Dashboards.
-- 📄 View my detailed resume: [AbishekDataSciencedResume.pdf](link-to-your-pdf-file-here)
-- 📫 Reach out to me: **saabhishekwork@gmail.com**
+## 🧑‍💻 About Me
 
-<br>
+- 🎓 M.Sc. in **Environmental Science** | B.Sc. from Institute of Science, Nagpur
+- 🔭 Currently working as a **Data Science Intern** at Hisan Lab Pvt. Ltd.
+- 🌱 Deep diving into **Deep Learning, NLP, Computer Vision & Generative AI**
+- 📊 Skilled in turning raw data into actionable business insights using Python, SQL & Power BI
+- 💡 Passionate about building end-to-end ML pipelines — from EDA to deployment
+- 📫 Reach me at **saabhishek@gmail.com**
 
-### 🛠️ Tech Stack & Tools
+<br/>
 
-**Programming & Data Extraction**
-<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-**Libraries & Machine Learning Engine**
-<br>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-
-**Data Visualization & BI**
-<br>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-
-**Tools & Environment**
-<br>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-<br>
-
-### 🚀 Featured Projects
-
-| Project Name | Architecture / Tools | Description |
-| ------------ | -------------------- | ----------- |
-| **House Price Prediction** | Python, XGBoost, Scikit-learn | Built an end-to-end regression system. Handled missing values, optimized via GridSearchCV, and improved accuracy through robust feature engineering. |
-| **PM Level Analysis** | Data Analytics, Excel | Retrospective analysis comparing WHO and Indian (NAAQS) standards for Particulate Matter (PM10/PM2.5) to monitor environmental safety levels. |
-| **Data Scraping Pipeline** | Web Scraping, Python | *(Add your scraping project details here)* Engineered an automated pipeline to extract, clean, and store data from web sources for analytical modeling. |
-
-<br>
-
-### 📊 GitHub Telemetry (Live Stats)
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+### Languages & Core
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,vscode&theme=dark" />
+
+### ML / DL Frameworks
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv&theme=dark" />
+
+### Data Visualization & BI
+<img src="https://skillicons.dev/icons?i=powerbi,tableau&theme=dark" />
+
+<br/><br/>
+
+![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-2C5364?style=flat-square&logo=xgboost&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
 </div>
 
-<br>
+<br/>
+
+## 🎯 What I Work With
+
+```
+├── Machine Learning        →  Regression • Classification • Clustering • Feature Engineering
+├── Deep Learning           →  ANN • CNN • RNN • LSTM
+├── NLP                     →  Tokenization • Word Embeddings • NER • Sentiment Analysis
+├── Generative AI           →  LLMs • Prompt Engineering • RAG
+├── Computer Vision         →  Image Classification • YOLO • Image Segmentation
+└── Data & BI               →  EDA • Data Cleaning • Power BI (DAX) • Tableau • SQL
+```
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏠 House Price Prediction
+End-to-end regression system using **Linear Regression, Random Forest & XGBoost** with full EDA, feature engineering, and hyperparameter tuning (GridSearchCV + cross-validation).
+
+`Python` `Scikit-learn` `XGBoost`
+
+</td>
+<td width="50%">
+
+### 📈 Retail Sales Analysis
+Analyzed **50,000+ transactions** across 20+ categories, built a forecasting model (Linear Regression + ARIMA) improving accuracy by **~15%**, and automated reporting with Power BI dashboards.
+
+`SQL` `Python` `Power BI`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌫️ Particulate Matter Analysis
+Retrospective study comparing real-world air quality data against **WHO and NAAQS (India)** standards for PM10 & PM2.5 levels.
+
+`Excel` `Data Analysis`
+
+</td>
+<td width="50%">
+
+### 🎓 Certifications
+- Advanced Excel — Udemy
+- Data Science — Colditz's
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <i>"Prioritizing deep functional logic over memorizing syntax."</i><br>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=2C5364&icon_color=2C5364&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true&background=0D1117&ring=2C5364&fire=2C5364&currStreakLabel=2C5364" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=2C5364&text_color=c9d1d9" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react&hide_border=true" width="0" height="0"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=2C5364&line=2C5364&point=ffffff" width="100%"/>
+
 </div>
+
+> ⚠️ Note: `YOUR_GITHUB_USERNAME` ला apla actual GitHub username टाकायचा आहे (sagla ठिकani, 4 jagi aahe).
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="mailto:saabhishek@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=2C5364&label=PROFILE+VIEWS" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
