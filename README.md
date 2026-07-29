@@ -6,17 +6,14 @@
 </div>
 
 <!-- SIDE PROFILE PHOTO (Replace the src link with your actual photo URL) -->
-<img align="right" alt="Abhishek's Profile Photo" width="250" style="border-radius: 50%; border: 4px solid #2196F3;" src="https://dummyimage.com/250x250/24292e/ffffff&text=Your+Photo+Here" />
-
 ### 👨‍💻 About Me
 *Hello! I'm a Data Analyst and Aspiring Data Scientist based in Nagpur, India. I specialize in turning raw, messy data into actionable, logical architectures.* 
 
 - 🔭 I’m currently building scalable Data Science and ML solutions.
 - 🏢 Previously worked as a **Data Science Intern** at Hisan Lab Pvt. Ltd., where I built forecasting models that improved accuracy by 15% and automated weekly reporting.
 - 🕷️ **What I Do:** Data Analysis, Machine Learning (Regression, Classification, Deep Learning), **Web Scraping** (Extracting unstructured data from the web), and Interactive Power BI Dashboards.
-- 🎓 Education: M.Sc. Environmental Science & B.Sc. from Institute of Science, Nagpur.
 - 📄 View my detailed resume: [AbishekDataSciencedResume.pdf](link-to-your-pdf-file-here)
-- 📫 Reach out to me: **saabhishek@gmail.com**
+- 📫 Reach out to me: **saabhishekwork@gmail.com**
 
 <br>
 
