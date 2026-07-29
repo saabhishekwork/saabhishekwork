@@ -18,7 +18,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 M.Sc. in **Environmental Science** | B.Sc. from Institute of Science, Nagpur
+- 🎓 B.C.A in Computer Science from Institute of Science, Nagpur
 - 🔭 Currently working as a **Data Science Intern** at Hisan Lab Pvt. Ltd.
 - 🌱 Deep diving into **Deep Learning, NLP, Computer Vision & Generative AI**
 - 📊 Skilled in turning raw data into actionable business insights using Python, SQL & Power BI
