@@ -19,7 +19,7 @@
 ## 🧑‍💻 About Me
 
 - 🎓 B.C.A in Computer Science from Institute of Science, Nagpur
-- 🔭 Currently working as a **Data Science Intern** at Hisan Lab Pvt. Ltd.
+- 🔭 Currently working as a **Data Analyst Intern** at Hisan Lab Pvt. Ltd.
 - 🌱 Deep diving into **Deep Learning, NLP, Computer Vision & Generative AI**
 - 📊 Skilled in turning raw data into actionable business insights using Python, SQL & Power BI
 - 💡 Passionate about building end-to-end ML pipelines — from EDA to deployment
